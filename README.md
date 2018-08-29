@@ -35,4 +35,4 @@ This repo relies on the following third-party projects:
 * For testing only:
   * [h12w/socks](https://github.com/h12w/socks)
 * Github 下载:
-  * [Github分流下载](https://www.v2ray.com/download/)
+  * [Github分流下载](https://www.v2ray.com/download/)https://www.v2ray.com/download/
