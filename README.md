@@ -34,4 +34,5 @@ This repo relies on the following third-party projects:
   * [gorilla/websocket](https://github.com/gorilla/websocket)
 * For testing only:
   * [h12w/socks](https://github.com/h12w/socks)
-*Github 分流下载：https://www.v2ray.com/download/
+* Github 下载:
+  * [Github分流下载](https://www.v2ray.com/download/)
